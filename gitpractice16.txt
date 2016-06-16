@@ -2,3 +2,7 @@ hi
 asfaadas
 cambio 31
 cambio 41
+<<<<<<< HEAD
+=======
+master
+>>>>>>> refs/heads/master
